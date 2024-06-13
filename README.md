@@ -113,4 +113,6 @@ output {
    - Navigate to Discover to view the ingested logs.
    - Create visualizations and dashboards as needed.
 
+### Read in [BLOG](https://medium.com/@sovisrushain/monitoring-spring-boot-microservices-logs-with-the-elk-stack-aeeaf3e98d7b)
+
 
